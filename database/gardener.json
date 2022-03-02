@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Frank Dublin",
+    "email": "frankdublin@gmail.com",
+    "country_id": 2,
+    "state": "Nairobi",
+    "city": "Brookyln"
+  },
+  {
+    "name": "Butly West",
+    "email": "west@gmail.com",
+    "country_id": 2,
+    "state": "Mombasa",
+    "city": "voi"
+  },
+  {
+    "name": "Sandra quenly",
+    "email": "sandra@yahoo.com",
+    "country_id": 2,
+    "state": "wale",
+    "city": "lamu"
+  },
+  {
+    "name": "Tombam Kot",
+    "email": "tombamkot@hotmail.com",
+    "country_id": 2,
+    "state": "Kilifi",
+    "city": "wajir"
+  },
+  {
+    "name": "Lanre Adewale",
+    "email": "adewalelanre@gmail.com",
+    "country_id": 1,
+    "state": "Lagos",
+    "city": "Ikorordu"
+  },
+  {
+    "name": "Tola odule",
+    "email": "tolaodule@swiftend.com",
+    "country_id": 1,
+    "state": "Ogun",
+    "city": "Ago Iwoye"
+  },
+  {
+    "name": "Talabi Ayomide",
+    "email": "flioolawale@gmail.com",
+    "country_id": 1,
+    "state": "Lagos",
+    "city": "Surulere"
+  },
+  {
+    "name": "Mide Coder",
+    "email": "talabiayomide732@yahoo.com",
+    "country_id": 1,
+    "state": "Abuja",
+    "city": "Wuse 2"
+  }
+]

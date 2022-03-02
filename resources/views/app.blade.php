@@ -280,7 +280,7 @@
               }
 
               route-binding : {
-                country: ng // Nigeria Country code  (This field accepts country code only)
+                gardener: 1 // gardener_id (This field accept only ID)
               }
             </pre>
           </dd>

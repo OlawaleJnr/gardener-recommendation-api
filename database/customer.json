@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Odunlade Adekola",
+    "email": "odunladeadekola@gmail.com",
+    "country_id": 1,
+    "state": "Ogun",
+    "city": "Abeokuta"
+  },
+  {
+    "name": "Harrison West",
+    "email": "harrisonwest@yahoo.com",
+    "country_id": 2,
+    "state": "Mombasa",
+    "city": "voi"
+  },
+  {
+    "name": "Talabi Ayomide",
+    "email": "talabiayomide@gmail.com",
+    "country_id": 1,
+    "state": "Lagos",
+    "city": "Surulere"
+  },
+  {
+    "name": "Oluyemi Damilola",
+    "email": "oluyemi@hotmail.com",
+    "country_id": 1,
+    "state": "Ilorin",
+    "city": "Irepodun"
+  },
+  {
+    "name": "Taiwo Suliat",
+    "email": "suliat@yahoo.com",
+    "country_id": 1,
+    "state": "Osun",
+    "city": "Ile-Ife"
+  },
+  {
+    "name": "Cisco Ramon",
+    "email": "cisco@gmail.com",
+    "country_id": 2,
+    "state": "Nairobi",
+    "city": "Brooklyn"
+  },
+  {
+    "name": "Kenzolla Ryan",
+    "email": "kenzolla@gmail.com",
+    "country_id": 2,
+    "state": "Nairobi",
+    "city": "Brooklyn"
+  },
+  {
+    "name": "Kezin Tom",
+    "email": "kezintom@hotmail.com",
+    "country_id": 2,
+    "state": "Nairobi",
+    "city": "Kenzola"
+  }
+]
