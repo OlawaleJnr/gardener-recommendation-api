@@ -14,7 +14,7 @@ class UserSeeder extends Seeder
    */
   public function run()
   {
-    $user = User::create([
+    User::create([
       'name' => 'Admin',
       'email' => 'admin@edenlife.com',
       'email_verified_at' => now(),

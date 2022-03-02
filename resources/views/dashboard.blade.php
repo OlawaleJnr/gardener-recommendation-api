@@ -100,16 +100,16 @@
     </nav>
 
     <header class="bg-white shadow">
-      <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
+      <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-7">
         <h1 class="text-3xl font-bold text-gray-900">Your Personal Access Token</h1>
       </div>
     </header>
     <main>
-      <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
+      <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-7">
         <!-- Replace with your content -->
-        <div class="overflow-hidden shadow-sm sm:rounded-lg">
+        <div class="overflow-hidden shadow-sm sm:rounded-lg p-4 bg-stone-50">
           <p class="mb-8">
-            <a href="{{ route('showToken') }}" class="btn btn-outline btn-accent">Create new token</a>
+            <a href="{{ route('showToken') }}" class="btn btn-outline group relative justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-emerald-800 hover:bg-emerald-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-700 cusor-pointer">Create new token</a>
           </p>
 
           @if (count($tokens) > 0)

@@ -16,6 +16,6 @@ class Gardener extends Model
   // This belongs to a Country
   public function country()
   {
-    return $this->hasOne(Country::class);
+    return $this->belongsTo(Country::class);
   }
 }
