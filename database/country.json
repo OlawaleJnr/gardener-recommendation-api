@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "phoneCode": 234
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "phoneCode": 254
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "phoneCode": 380
+  }
+]
